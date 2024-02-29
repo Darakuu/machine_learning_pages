@@ -1,4 +1,4 @@
-# Appunti di Machine Learning 🤖, A.A 2023/24
+# Appunti di Machine Learning 🦾, A.A 2023/24
 
 **VISUALIZZABILI** [QUI (click me!)](https://darakuu.github.io/machine_learning_pages/)
 
