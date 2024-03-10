@@ -8,4 +8,16 @@ Non intendono e non vogliono sostituire libri, slide ufficiali e quant'altro. 
 
 Questa pagina funge da indice.
 
-Yet to start...
+## Argomenti
+
+- 
+
+## Appunti Lezioni
+
+Appunti e/o riassunti delle lezioni, creati in itinere: possibile presenza di errori o sviste.
+
+> [!application]- Indice Lezioni
+>  - Lezione 1: Solo introduzione sulla materia, nessun argomento trattato.
+>  - 
+
+
