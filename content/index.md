@@ -10,7 +10,10 @@ Questa pagina funge da indice.
 
 ## Argomenti
 
-- 
+- [[Introduzione]]
+- [[Key Ingredients of a Machine Learning Algorithm]]
+- [[Interpretazione Geometrica del ML]]
+- [[Tipologie di Learning]]
 
 ## Appunti Lezioni
 
@@ -18,6 +21,6 @@ Appunti e/o riassunti delle lezioni, creati in itinere: possibile presenza di er
 
 > [!application]- Indice Lezioni
 >  - Lezione 1: Solo introduzione sulla materia, nessun argomento trattato.
->  - 
+>  - Lezione 2: Intro su Machine Learning
 
 
